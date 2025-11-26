@@ -69,6 +69,7 @@ Screenshots:
 - Open button to expand the SideBar Menu
 
 Screenshots:
+
 <img width="636" height="614" alt="image" src="https://github.com/user-attachments/assets/c27188f5-ad27-4ae4-86f7-00ba5a434c10" />
 
 <img width="558" height="470" alt="image" src="https://github.com/user-attachments/assets/fc5fde21-3d94-4422-9aef-e5b98d008e27" />
