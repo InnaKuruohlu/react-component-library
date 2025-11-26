@@ -1,3 +1,11 @@
+input::-webkit-password-toggle-button,
+input::-webkit-credentials-auto-fill-button {
+  display: none !important;
+}
+input[type="password"] {
+  -moz-user-select: text;
+}
+
 .inputContainer{
 position: relative;
 display: inline-block;
