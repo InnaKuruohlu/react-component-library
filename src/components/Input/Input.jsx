@@ -37,7 +37,7 @@ function Input () {
   }
 
   return (
-  <div>
+  <div className="inputContainer">
     <input
     className="input"
     placeholder="Password"
