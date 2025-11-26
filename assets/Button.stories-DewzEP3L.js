@@ -1,4 +1,4 @@
-import{B as s}from"./Button-rHsBb1wh.js";import"./jsx-runtime-u17CrQMm.js";import"./iframe-Dz8FTIK4.js";import"./preload-helper-PPVm8Dsz.js";const{fn:t}=__STORYBOOK_MODULE_TEST__,u={title:"Example/Button",component:s,parameters:{layout:"centered"},tags:["autodocs"],argTypes:{backgroundColor:{control:"color"}},args:{onClick:t()}},r={args:{primary:!0,label:"Button"}},a={args:{label:"Button"}},e={args:{size:"large",label:"Button"}},o={args:{size:"small",label:"Button"}};r.parameters={...r.parameters,docs:{...r.parameters?.docs,source:{originalSource:`{
+import{B as s}from"./Button-CovlKhK4.js";import"./jsx-runtime-u17CrQMm.js";import"./iframe-N8R_U1Yh.js";import"./preload-helper-PPVm8Dsz.js";const{fn:t}=__STORYBOOK_MODULE_TEST__,u={title:"Example/Button",component:s,parameters:{layout:"centered"},tags:["autodocs"],argTypes:{backgroundColor:{control:"color"}},args:{onClick:t()}},r={args:{primary:!0,label:"Button"}},a={args:{label:"Button"}},e={args:{size:"large",label:"Button"}},o={args:{size:"small",label:"Button"}};r.parameters={...r.parameters,docs:{...r.parameters?.docs,source:{originalSource:`{
   args: {
     primary: true,
     label: 'Button'
